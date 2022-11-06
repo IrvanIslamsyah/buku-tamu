@@ -1,0 +1,76 @@
+a.edit{
+    padding: 6px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: green;
+    font-size: 16px;
+}
+
+a.hapus{
+    padding: 6px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: red;
+    font-size: 16px;
+}
+a.tambah{
+    padding: 10px;
+    color: #6a6aff;
+    text-decoration: none;
+    font-size: 20px;
+}
+h3{
+    padding-left: 10px;
+}
+
+.daftar h3 a{
+    text-decoration: none;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 25px;
+    background-color: rgb(92, 92, 255);
+}
+.daftar{
+    margin-top: 150px;
+}
+
+.footer{
+    color: #fff;
+    margin-top: 215px;
+    background-color: grey;
+    padding: 10px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.form-control{
+    margin-left: 10px;
+    width: 500px;
+}
+label{
+    margin-left: 10px;
+}
+
+button{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(57, 135, 231);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+.home a{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #6a6aff;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+}
